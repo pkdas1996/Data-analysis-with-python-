@@ -1,4 +1,4 @@
-# Data-analysis-with-python-
+# Numerical computations and data-driven visualizations with Python
 
 ## Data Analysis with Python: Zero to Pandas
 
